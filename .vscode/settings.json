@@ -1,0 +1,6 @@
+{
+  "debug.console.collapseIdenticalLines": true,
+  "comments.collapseOnResolve": true,
+  "outline.collapseItems": "alwaysExpand",
+  "explorer.compactFolders": false
+}
